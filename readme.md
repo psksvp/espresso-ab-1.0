@@ -18,7 +18,7 @@ original authors.
 See below for an example input and output from espresso.
 
 ~~~
-the pla for minterm List(0, 1, 3, 7, 8, 9, 11, 15) with 4 predicates (p0 ,p1, p2, p3) looks like below. .e indicates the end of input and output.
+The pla for minterm List(0, 1, 3, 7, 8, 9, 11, 15) with 4 predicates (p0 ,p1, p2, p3) looks like below. .e indicates the end of input and output.
 
       -----------------------------
       .i 4
