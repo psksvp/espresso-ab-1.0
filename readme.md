@@ -1,4 +1,4 @@
-This espresso source files have been patched so that it can be compiled with gcc 4.2.1 distributed with xcode 8 and gcc 5.4.0 on ubuntu 16.04. Below is the readme from original author where I cloned these source files from. 
+This espresso source files have been patched so that it can be compiled with gcc 4.2.1 distributed with xcode 8 and gcc 5.4.0 on ubuntu 16.04. Below is the readme from the original author where I cloned these source files from. 
 
 psksvp@gmail.com
 
