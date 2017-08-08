@@ -52,4 +52,4 @@ the pla for minterm List(0, 1, 3, 7, 8, 9, 11, 15) with 4 predicates (p0 ,p1, p2
       --11 1
       .e
       ------------------------------
-      ~~~
+~~~
