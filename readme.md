@@ -42,7 +42,7 @@ The pla for minterm List(0, 1, 3, 7, 8, 9, 11, 15) with 4 predicates (p0 ,p1, p2
       .e
       ------------------------------
 
-      The output is below, which indicates the simplify terms [[!p1, !p2], [p2, p2]]  from -00- and --11
+      The output is below, which indicates the simplify terms [[!p1, !p2], [p2, p3]] --> ((!p1 || !p2) && (p2 || p3)) from -00- and --11
 
       ------------------------------
       .i 4
